@@ -5,6 +5,7 @@ import "testing"
 
 
 // ========== ========== ========== ========== ==========
+// Example test for Question 2 to utilize later after Spark Digital fixes their test
 func TestAdd(t *testing.T) {
   t.Log("Adding the numbers 12 and 28... (expected result: 40)")
 

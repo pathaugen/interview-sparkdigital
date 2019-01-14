@@ -14,7 +14,7 @@ import (
 )
 
 
-var debug = false
+var debug = false // Set to true to debug the question 2 output
 
 
 // ========== START: Golang Console Colors ========== ========== ========== ==========
@@ -108,7 +108,7 @@ func maxDifference(a []int32) int32 {
 func substringCalculator(s string) int64 {
   debugCount := 0
   if debug && (s == "abcdef" || s == "kincenvizh") { fmt.Print( "DEBUG: " + s + "\n" ) } // DEBUG
-  
+
   substringCount := 0
 
   // Start with full string "s"

@@ -13,11 +13,11 @@ Features:
 * Application splash logo
 * Testing framework
 
-Installation and Running:
-* > git clone https://github.com/pathaugen/interview-sparkdigital.git
-* > go test
-* > go build
-* > interview-sparkdigital.exe
+Installation and Running (from a directory of your choice):
+> $ git clone https://github.com/pathaugen/interview-sparkdigital.git
+> $ go test
+> $ go build
+> $ interview-sparkdigital.exe
 
 Related Links:
 * https://github.com/pathaugen/interview-sparkdigital

@@ -72,14 +72,18 @@ func main() {
 	breakline := ( breakspace + cBlue + "  ====================================================" + cClr + breakspace )
 
   fmt.Print( appinfo )
-
-
   fmt.Print( breakspace )
 
+
+
+
+  // ========== START: Main Logic ========== ========== ========== ==========
   fmt.Print( "  This is a test" )
+  // ========== END: Main Logic ========== ========== ========== ==========
+
+
+
 
   fmt.Print( breakspace )
-
-
   fmt.Print( breakline )
 }

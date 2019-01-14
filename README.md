@@ -1,6 +1,6 @@
 
-# interview-sparkdigital
-========================
+interview-sparkdigital
+======================
 
 https://github.com/pathaugen/interview-sparkdigital
 

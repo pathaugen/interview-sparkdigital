@@ -14,7 +14,7 @@ import (
 )
 
 
-var debug = false // Set to true to debug the question 2 output
+var debug = true // Set to true to debug the question 2 output
 
 
 // ========== START: Golang Console Colors ========== ========== ========== ==========
